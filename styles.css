@@ -1,1 +1,65 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: #f1d9a7;
+}
+
+h1 {
+    color: #ce796b;
+    text-align: center;
+    font-family: "Angkor";
+    margin: 5px;
+}
+
+h2 {
+    color: #4f6a91;
+    font-family: "Angkor";
+    font-size: 21px;
+    margin-bottom: 5px;
+}
+
+article {
+    color: #202c39;
+    font-family: "Poppins", sans-serif;
+}
+
+p {
+    color: #202c39;
+    margin-top: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+figcaption {
+    margin-top: 5px;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+footer {
+    color: #ce796b;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+}
+
+#mainHeading {
+    background-color: red;
+}
+
+.funParagraph {
+    background-color: green;
+}
+
+.figure-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.photo.caption {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
