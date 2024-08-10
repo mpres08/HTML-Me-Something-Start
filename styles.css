@@ -43,14 +43,6 @@ footer {
     font-family: "Poppins", sans-serif;
 }
 
-#mainHeading {
-    background-color: red;
-}
-
-.funParagraph {
-    background-color: green;
-}
-
 .figure-container {
     display: flex;
     justify-content: center;
